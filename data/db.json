@@ -65,6 +65,21 @@
       "method": "asdasdasd",
       "cookingTime": "11 minutes",
       "id": "nrKQFdz"
+    },
+    {
+      "title": "Thepla",
+      "ingredients": [
+        "Flour",
+        "Wheat",
+        "Geera",
+        "Water",
+        "Haldi",
+        "Ghee",
+        "Methi"
+      ],
+      "method": "Very Long",
+      "cookingTime": "15 minutes",
+      "id": "MT_lNGR"
     }
   ]
 }
